@@ -6,7 +6,7 @@ This repository contains the Drug-Drug Interaction (DDI) API and Analysis projec
 
 The project is divided into four main components:
 
-1. **DDI_API.py**: A FastAPI application providing endpoints to access and manipulate drug interaction data. This Python script offers a streamlined way to query drug interactions, update the dataset, and perform administrative tasks related to drug interaction data management.
+1. **RAG_ddi_chromadb.ipynb**: A FastAPI application providing endpoints to access and manipulate drug interaction data. This Python script offers a streamlined way to query drug interactions, update the dataset, and perform administrative tasks related to drug interaction data management.
 
 2. **DDI RAG.ipynb**: A Jupyter Notebook for analyzing drug interaction data. This notebook includes code to load, process, and visualize drug interaction information, offering insights into the complexity and nuances of drug interactions.
 3. **Testing** : This part includes unit testing and Load Testing of FastAPI. Files are - LoadTesting_locust.py, Unit_test.py
